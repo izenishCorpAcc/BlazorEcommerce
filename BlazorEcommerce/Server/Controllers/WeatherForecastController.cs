@@ -1,4 +1,4 @@
-using BlazorEcommerce.Shared;
+//using BlazorEcommerce.Shared;     //this is no longer needed because we used global using in Program.cs
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlazorEcommerce.Server.Controllers
